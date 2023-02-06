@@ -2,7 +2,7 @@ import discord
 import random
 
 
-TOKEN = 'MTA2MzEwMDYwMDI5Nzk5NjQyOQ.GXngDb.gjxc1YHrZ3MX6BKL_zPhSwa5fi0_iBLga1nVOQ'
+TOKEN = #XXXXX oops, probably don't want the bot token floating around
 intents = discord.Intents.default()
 intents.message_content = True
 client = discord.Client(intents = intents)
